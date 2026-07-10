@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
