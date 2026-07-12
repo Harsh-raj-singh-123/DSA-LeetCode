@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0567-permutation-in-string) |
+| [1331-rank-transform-of-an-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0567-permutation-in-string) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
