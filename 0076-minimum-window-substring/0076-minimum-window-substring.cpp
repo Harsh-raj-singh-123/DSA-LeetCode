@@ -19,7 +19,7 @@ public:
             freq[s[right]]--;
             right++;
 
-            while(count  == 0){
+            while(count == 0){
                 if(right-left < minlen){
                     minlen  =  right-left;
                     start = left;
