@@ -17,7 +17,6 @@ public:
                 cols[j][num] = true;
                 boxes[box][num] = true;
             }
-
         }
         return true;
     }
