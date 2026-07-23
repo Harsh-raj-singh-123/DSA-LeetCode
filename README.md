@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2235-add-two-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
