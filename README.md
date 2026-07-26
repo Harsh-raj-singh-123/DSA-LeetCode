@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0567-permutation-in-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0258-add-digits) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
 |  |
