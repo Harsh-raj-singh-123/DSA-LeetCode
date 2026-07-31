@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
