@@ -15,7 +15,7 @@ public:
             }
             else{
                 int cnt = 0;
-                cnt = (it.second / 2) * 2;;
+                cnt = (it.second / 2) * 2;
                 sum += cnt;
                 maxi = max(maxi, it.second%2);
             }
