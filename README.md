@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
+| [0621-task-scheduler](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -172,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
