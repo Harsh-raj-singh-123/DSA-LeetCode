@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
+| [0402-remove-k-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0567-permutation-in-string) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0621-task-scheduler) |
@@ -195,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
