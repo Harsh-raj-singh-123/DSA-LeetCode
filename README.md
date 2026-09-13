@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0409-longest-palindrome) |
