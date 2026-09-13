@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2235-add-two-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -216,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0739-daily-temperatures) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
