@@ -1,0 +1,23 @@
+class Solution {
+private:
+    int f(int i, int n, vector<int>& nums, vector<int>& dp) {
+        if (i >= n - 1) return 0; // Reached target
+        if (dp[i] != -1) return dp[i];
+
+        int minSteps = 1e9; // Safe infinity to prevent integer overflow
+
+        // Start from j = 1 to make forward progress
+        for (int j = 1; j <= nums[i]; j++) {
+            minSteps = min(minSteps, 1 + f(i + j, n, nums, dp));
+        }
+
+        return dp[i] = minSteps;
+    }
+
+public:
+    int jump(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> dp(n, -1);
+        return f(0, n, nums, dp);
+    }
+};
