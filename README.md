@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2326-spiral-matrix-iv) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2235-add-two-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -214,11 +218,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
