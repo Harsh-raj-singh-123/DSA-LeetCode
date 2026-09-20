@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0402-remove-k-digits) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 ## Two Pointers
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0392-is-subsequence) |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1025-divisor-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
