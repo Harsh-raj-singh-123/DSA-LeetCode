@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0258-add-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
