@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0258-add-digits) |
+| [0390-elimination-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0877-stone-game) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0233-number-of-digit-one) |
+| [0390-elimination-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
