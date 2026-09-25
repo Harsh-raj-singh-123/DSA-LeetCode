@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0216-combination-sum-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0036-valid-sudoku) |
+| [0221-maximal-square](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0221-maximal-square) |
 | [2326-spiral-matrix-iv](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0221-maximal-square](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
