@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0390-elimination-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
