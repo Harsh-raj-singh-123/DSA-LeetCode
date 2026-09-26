@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0394-decode-string) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0216-combination-sum-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
