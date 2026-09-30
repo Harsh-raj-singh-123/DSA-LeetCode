@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0621-task-scheduler](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0390-elimination-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0390-elimination-game) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0877-stone-game) |
