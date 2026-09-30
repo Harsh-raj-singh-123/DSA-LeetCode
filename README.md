@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2235-add-two-integers](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2235-add-two-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/0221-maximal-square) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2326-spiral-matrix-iv](https://github.com/Harsh-raj-singh-123/DSA-LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
